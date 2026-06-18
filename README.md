@@ -62,7 +62,6 @@ Depois acesse `http://localhost:3000`.
 
 - `docs/figma-checklist.md`: roteiro para cumprir a etapa de UI/UX no Figma.
 - `docs/explicacao-codigo.md`: explicacao didatica do `index.html`, `assets/css/styles.css` e `assets/js/script.js`.
-- `docs/roteiro-apresentacao.md`: roteiro completo para apresentar funcionalidades, criterios e trechos principais do codigo.
 
 ## Checklist do escopo
 
