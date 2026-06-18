@@ -86,7 +86,7 @@ Depois acesse `http://localhost:3000`.
 
 ### Home - Mobile
 
-![Versao mobile do portfolio](docs/screenshots/mobile.png)
+![Versao mobile do portfolio](docs/screenshots/mobile1.png)
 
 ### Habilidades - Desktop
 
