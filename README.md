@@ -8,11 +8,11 @@ nativas, documentacao e deploy publico.
 
 ## Status
 
-Em desenvolvimento.
+Concluido.
 
 ## Deploy
 
-Link de producao: adicionar URL do GitHub Pages ou Vercel.
+[Portfolio Alpha no GitHub Pages](https://angelosouza1.github.io/Portfolio-Alpha/)
 
 ## Prototipo Figma
 
@@ -76,13 +76,13 @@ Depois acesse `http://localhost:3000`.
 - [x] Link do Figma
 - [x] Prints ou GIF demonstrativo
 - [x] Links reais dos projetos
-- [ ] Deploy ativo
+- [x] Deploy ativo
 
 ## Prints
 
 ### Home - Desktop
 
-![Versao desktop do portfolio](assets/images/hero-workspace.png)
+![Versao desktop do portfolio](docs/screenshots/desktop.png)
 
 ### Home - Mobile
 
@@ -106,4 +106,4 @@ Depois acesse `http://localhost:3000`.
 
 ## Observacoes
 
-Falta apenas publicar o deploy e substituir o placeholder do link de producao.
+Projeto finalizado conforme os requisitos do escopo.
