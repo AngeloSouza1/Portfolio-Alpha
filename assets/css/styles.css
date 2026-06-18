@@ -752,6 +752,20 @@ textarea {
   font-weight: 800;
 }
 
+[data-theme="dark"] .site-footer {
+  border-top-color: var(--color-line);
+  background: #f7f3ec;
+  color: #1d2424;
+}
+
+[data-theme="dark"] .site-footer p {
+  color: rgba(29, 36, 36, 0.72);
+}
+
+[data-theme="dark"] .site-footer a {
+  color: #1d2424;
+}
+
 /* ============================================================
    8. Animacoes e acessibilidade de movimento
    Mantem microinteracoes, respeitando usuarios com reducao de movimento.
