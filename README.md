@@ -80,13 +80,29 @@ Depois acesse `http://localhost:3000`.
 
 ## Prints
 
-### Desktop
+### Home - Desktop
 
 ![Versao desktop do portfolio](docs/screenshots/desktop.png)
 
-### Mobile
+### Home - Mobile
 
 ![Versao mobile do portfolio](docs/screenshots/mobile.png)
+
+### Habilidades - Desktop
+
+![Secao de habilidades no desktop](docs/screenshots/tech-desktop.png)
+
+### Habilidades - Mobile
+
+![Secao de habilidades no mobile](docs/screenshots/tech-mobile.png)
+
+### Contato - Desktop
+
+![Secao de contato no desktop](docs/screenshots/contato-desktop.png)
+
+### Contato - Mobile
+
+![Secao de contato no mobile](docs/screenshots/contato-mobile1.png)
 
 ## Observacoes
 
