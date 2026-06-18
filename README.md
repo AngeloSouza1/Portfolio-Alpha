@@ -82,7 +82,7 @@ Depois acesse `http://localhost:3000`.
 
 ### Home - Desktop
 
-![Versao desktop do portfolio](docs/screenshots/desktop.png)
+![Versao desktop do portfolio](assets/images/hero-workspace.png)
 
 ### Home - Mobile
 
