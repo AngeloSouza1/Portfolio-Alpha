@@ -74,15 +74,20 @@ Depois acesse `http://localhost:3000`.
 - [x] JavaScript vanilla modular
 - [x] README inicial
 - [x] Link do Figma
-- [ ] Prints ou GIF demonstrativo
+- [x] Prints ou GIF demonstrativo
 - [x] Links reais dos projetos
 - [ ] Deploy ativo
 
 ## Prints
 
-Adicionar imagens da tela desktop e mobile depois da validacao final.
+### Desktop
+
+![Versao desktop do portfolio](docs/screenshots/desktop.png)
+
+### Mobile
+
+![Versao mobile do portfolio](docs/screenshots/mobile.png)
 
 ## Observacoes
 
-Antes da entrega, substitua o link do Figma, o link de producao e os prints
-pelos dados finais do projeto.
+Falta apenas publicar o deploy e substituir o placeholder do link de producao.
