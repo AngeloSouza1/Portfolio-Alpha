@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
-    <!-- Metadados basicos da pagina: idioma, codificacao, responsividade e SEO. -->
+    <!-- Metadados básicos da página: idioma, codificação, responsividade e SEO. -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Portfolio pessoal de Angelo Souza, desenvolvedor backend e graduando em Analise e Desenvolvimento de Sistemas."
+      content="Portfólio pessoal de Angelo Souza, desenvolvedor backend e graduando em Análise e Desenvolvimento de Sistemas."
     />
-    <title>Angelo Souza | Portfolio Backend</title>
+    <title>Angelo Souza | Portfólio Backend</title>
     <script>
       const savedTheme = localStorage.getItem("portfolio-theme");
       if (savedTheme) {
@@ -19,16 +19,16 @@
     <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
   <body>
-    <!-- Header fixo: concentra marca, alternancia de tema, botao mobile e links de navegacao. -->
+    <!-- Header fixo: concentra marca, alternância de tema, botão mobile e links de navegação. -->
     <header class="site-header" id="topo">
-      <!-- Marca clicavel: leva o usuario de volta para o topo da pagina. -->
-      <a class="brand" href="#topo" aria-label="Voltar ao inicio">
+      <!-- Marca clicável: leva o usuário de volta para o topo da página. -->
+      <a class="brand" href="#topo" aria-label="Voltar ao início">
         <span class="brand__mark">A</span>
         <span>Angelo</span>
       </a>
 
       <div class="header-actions">
-        <!-- Botao de tema: alterna entre modo claro e modo escuro. -->
+        <!-- Botão de tema: alterna entre modo claro e modo escuro. -->
         <button
           class="theme-toggle"
           type="button"
@@ -45,7 +45,7 @@
           </svg>
         </button>
 
-        <!-- Botao hamburguer: aparece no mobile e controla a abertura do menu via JavaScript. -->
+        <!-- Botão hambúrguer: aparece no mobile e controla a abertura do menu via JavaScript. -->
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
           <span class="sr-only">Abrir menu</span>
           <span></span>
@@ -54,8 +54,8 @@
         </button>
       </div>
 
-      <!-- Navbar principal: cada link aponta para uma secao interna pelo respectivo id. -->
-      <nav class="site-nav" id="site-nav" aria-label="Navegacao principal">
+      <!-- Navbar principal: cada link aponta para uma seção interna pelo respectivo id. -->
+      <nav class="site-nav" id="site-nav" aria-label="Navegação principal">
         <a href="#sobre">Sobre</a>
         <a href="#habilidades">Habilidades</a>
         <a href="#projetos">Projetos</a>
@@ -64,25 +64,25 @@
     </header>
 
     <main>
-      <!-- Hero: primeira dobra da pagina, com imagem de fundo, titulo, descricao e CTAs. -->
+      <!-- Hero: primeira dobra da página, com imagem de fundo, título, descrição e CTAs. -->
       <section class="hero" aria-labelledby="hero-title">
-        <!-- Imagem decorativa do hero; aria-hidden evita leitura desnecessaria por leitores de tela. -->
+        <!-- Imagem decorativa do hero; aria-hidden evita leitura desnecessária por leitores de tela. -->
         <div class="hero__media" aria-hidden="true">
           <img src="assets/images/hero-workspace.png" alt="" />
         </div>
-        <!-- section-shell limita a largura do conteudo e centraliza dentro da tela. -->
+        <!-- section-shell limita a largura do conteúdo e centraliza dentro da tela. -->
         <div class="hero__content section-shell">
-          <p class="eyebrow">Portfolio pessoal</p>
+          <p class="eyebrow">Portfólio pessoal</p>
           <h1 id="hero-title">
             <span>Angelo Souza,</span>
             <span>desenvolvedor</span>
             <span>backend.</span>
           </h1>
           <p>
-            Desenvolvo solucoes backend organizadas, performaticas e bem estruturadas
-            para sustentar aplicacoes web confiaveis.
+            Desenvolvo soluções backend organizadas, performáticas e bem estruturadas
+            para sustentar aplicações web confiáveis.
           </p>
-          <div class="hero__actions" aria-label="Acoes principais">
+          <div class="hero__actions" aria-label="Ações principais">
             <a class="button button--primary" href="#projetos">Ver projetos</a>
             <a class="button button--ghost" href="#contato">Falar comigo</a>
           </div>
@@ -218,7 +218,7 @@
                     href="https://github.com/AngeloSouza1/Pagamento-Gateway"
                     target="_blank"
                     rel="noreferrer"
-                    aria-label="Abrir repositorio do Pagamento Gateway no GitHub"
+                    aria-label="Abrir repositório do Pagamento Gateway no GitHub"
                   >
                     GitHub
                   </a>
@@ -250,7 +250,7 @@
                     href="https://github.com/AngeloSouza1/Amigo-Secreto-OBC"
                     target="_blank"
                     rel="noreferrer"
-                    aria-label="Abrir repositorio do Amigo Secreto OBC no GitHub"
+                    aria-label="Abrir repositório do Amigo Secreto OBC no GitHub"
                   >
                     GitHub
                   </a>
@@ -282,7 +282,7 @@
                     href="https://github.com/AngeloSouza1/send-ticket"
                     target="_blank"
                     rel="noreferrer"
-                    aria-label="Abrir repositorio do Send Ticket no GitHub"
+                    aria-label="Abrir repositório do Send Ticket no GitHub"
                   >
                     GitHub
                   </a>
@@ -360,7 +360,7 @@
       </section>
     </main>
 
-    <!-- Footer: fechamento da pagina com credito e atalho para voltar ao topo. -->
+    <!-- Footer: fechamento da página com crédito e atalho para voltar ao topo. -->
     <footer class="site-footer">
       <div class="section-shell">
         <p>&copy; 2026 Angelo. Feito com HTML, CSS e JavaScript puro.</p>
@@ -368,7 +368,7 @@
       </div>
     </footer>
 
-    <!-- JavaScript carregado no final para garantir que o HTML ja exista no DOM. -->
+    <!-- JavaScript carregado no final para garantir que o HTML já exista no DOM. -->
     <script src="assets/js/script.js"></script>
   </body>
 </html>

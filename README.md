@@ -1,33 +1,33 @@
-# Portfolio Pessoal - Angelo Souza
+# Portfólio Pessoal - Angelo Souza
 
-Portfolio pessoal estatico de Angelo Souza, desenvolvedor backend e graduando
-em Analise e Desenvolvimento de Sistemas.
-O projeto atende ao desafio proposto no escopo T7G22: prototipo no Figma,
-HTML semantico, CSS moderno, JavaScript vanilla, responsividade, animacoes
-nativas, documentacao e deploy publico.
+Portfólio pessoal estático de Angelo Souza, desenvolvedor backend e graduando
+em Análise e Desenvolvimento de Sistemas.
+O projeto atende ao desafio proposto no escopo T7G22: protótipo no Figma,
+HTML semântico, CSS moderno, JavaScript vanilla, responsividade, animações
+nativas, documentação e deploy público.
 
 ## Status
 
-Concluido.
+Concluído.
 
 ## Deploy
 
-[Portfolio Alpha no GitHub Pages](https://angelosouza1.github.io/Portfolio-Alpha/)
+[Portfólio Alpha no GitHub Pages](https://angelosouza1.github.io/Portfolio-Alpha/)
 
-## Prototipo Figma
+## Protótipo Figma
 
-[Portfolio Angelo Souza T7G22](https://www.figma.com/design/LKi1Q4s2SkE2mPfnmsjHV6/Portfolio-Angelo-Souza---T7G22?node-id=22-129&t=bQvbzkiuTSGFZYKA-1)
+[Portfólio Angelo Souza T7G22](https://www.figma.com/design/LKi1Q4s2SkE2mPfnmsjHV6/Portfolio-Angelo-Souza---T7G22?node-id=22-129&t=bQvbzkiuTSGFZYKA-1)
 
 ## Tecnologias
 
-- HTML5 semantico
+- HTML5 semântico
 - CSS3 com Custom Properties, Flexbox, Grid, media queries e keyframes
-- JavaScript vanilla para menu mobile, modo escuro, scroll e animacoes de entrada
+- JavaScript vanilla para menu mobile, modo escuro, scroll e animações de entrada
 - GitHub Pages ou Vercel para deploy
 
 ## Como rodar localmente
 
-Abra o arquivo `index.html` no navegador ou use um servidor estatico simples:
+Abra o arquivo `index.html` no navegador ou use um servidor estático simples:
 
 ```bash
 python3 -m http.server 3000
@@ -58,18 +58,18 @@ Depois acesse `http://localhost:3000`.
 └── README.md
 ```
 
-## Documentacao de estudo
+## Documentação de estudo
 
 - `docs/figma-checklist.md`: roteiro para cumprir a etapa de UI/UX no Figma.
-- `docs/explicacao-codigo.md`: explicacao didatica do `index.html`, `assets/css/styles.css` e `assets/js/script.js`.
+- `docs/explicacao-codigo.md`: explicação didática do `index.html`, `assets/css/styles.css` e `assets/js/script.js`.
 
 ## Checklist do escopo
 
-- [x] HTML5 semantico
+- [x] HTML5 semântico
 - [x] CSS Variables
 - [x] Layout com Flexbox e Grid
 - [x] Responsividade mobile, tablet e desktop
-- [x] Animacoes e microinteracoes nativas
+- [x] Animações e microinterações nativas
 - [x] Modo escuro com CSS Variables
 - [x] JavaScript vanilla modular
 - [x] README inicial
@@ -82,28 +82,28 @@ Depois acesse `http://localhost:3000`.
 
 ### Home - Desktop
 
-![Versao desktop do portfolio](docs/screenshots/desktop.png)
+![Versão desktop do portfólio](docs/screenshots/desktop.png)
 
 ### Home - Mobile
 
-![Versao mobile do portfolio](docs/screenshots/mobile1.png)
+![Versão mobile do portfólio](docs/screenshots/mobile1.png)
 
 ### Habilidades - Desktop
 
-![Secao de habilidades no desktop](docs/screenshots/tech-desktop.png)
+![Seção de habilidades no desktop](docs/screenshots/tech-desktop.png)
 
 ### Habilidades - Mobile
 
-![Secao de habilidades no mobile](docs/screenshots/tech-mobile.png)
+![Seção de habilidades no mobile](docs/screenshots/tech-mobile.png)
 
 ### Contato - Desktop
 
-![Secao de contato no desktop](docs/screenshots/contato-desktop.png)
+![Seção de contato no desktop](docs/screenshots/contato-desktop.png)
 
 ### Contato - Mobile
 
-![Secao de contato no mobile](docs/screenshots/contato-mobile1.png)
+![Seção de contato no mobile](docs/screenshots/contato-mobile1.png)
 
-## Observacoes
+## Observações
 
 Projeto finalizado conforme os requisitos do escopo.
